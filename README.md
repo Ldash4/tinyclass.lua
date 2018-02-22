@@ -1,0 +1,1 @@
+This is as minimalist as class implementations get. It is nothing but what you have to write for any implementation.
